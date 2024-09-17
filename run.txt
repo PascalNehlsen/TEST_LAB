@@ -1,0 +1,4 @@
+docker run -it --rm -p 2222:2222 test-sshd:local
+
+login: ssh -p 2222 root@localhost
+pw: changeme
