@@ -15,7 +15,7 @@ To get started with the TEST LAB, follow these steps:
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/pascalnehlsen/test-repo.git
+git clone https://github.com/pascalnehlsen/test-lab.git
 cd test-repo
 ```
 
@@ -46,7 +46,7 @@ The **FAKE METADATA** tool allows users to read and modify PDF metadata easily. 
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/pascalnehlsen/test-repo.git
+git clone https://github.com/pascalnehlsen/test-lab.git
 cd test-repo
 ```
 
