@@ -1,7 +1,7 @@
 # Use an official Python runtime as a parent image
 FROM python:3.9-slim
 
-ARG PASSWORD="changeme"
+ARG PASSWORD="test"
 ARG PORT=2222
 
 ENV PASSWORD=${PASSWORD} \
